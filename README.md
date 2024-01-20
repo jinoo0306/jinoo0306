@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://capsule-render.vercel.app/api?type=waving&color=003acc&text=Jinwoo-Cho&height=150&animation=fadeIn&fontAlignY=35&fontSize=40
+![header](https://capsule-render.vercel.app/api?type=waving&color=003acc&text=Jinwoo-Cho&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <!--
 **jinoo0306/jinoo0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
