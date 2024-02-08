@@ -35,10 +35,9 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-
-
 <br/>
 
 ## 👻 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jinoo0306&show_icons=true&theme=buefy)
+
 <br/>
