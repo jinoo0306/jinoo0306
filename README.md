@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=I'm%20Jinoo&fontSize=75&color=0:efbad6,100:dadafc&section=header&fontColor=1e1e1e&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=I'm%20Jinoo&fontSize=75&color=0:d9f1f1,100:d1c4e9&section=header&fontColor=1e1e1e&stroke=b678c4)
 
 ## 🧷 About me!
 Age : 🐲 Born on March 6, 2000 <br/>
