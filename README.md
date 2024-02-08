@@ -40,5 +40,5 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 <br/>
 
 ## 👻 Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jinoo&show_icons=true&theme=buefy)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jinoo0306&show_icons=true&theme=buefy)
 <br/>
