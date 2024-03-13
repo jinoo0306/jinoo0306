@@ -2,7 +2,7 @@
 
 ## 🧷 About me!
 Age : 🐲 Born on March 6, 2000 <br/>
-Field: 💻 Front-end developer<br/>
+Field: 💻 Frontend developer<br/>
 Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 <br/>
 
