@@ -22,7 +22,7 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React-Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Tanstack-Query](https://img.shields.io/badge/-Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 
 ### Tools
