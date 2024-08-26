@@ -20,6 +20,7 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
