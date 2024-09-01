@@ -21,8 +21,8 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tanstack-Query](https://img.shields.io/badge/-Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
@@ -38,6 +38,7 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Route 53](https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=amazon-route53&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Tools
