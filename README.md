@@ -27,6 +27,7 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ![Tanstack-Query](https://img.shields.io/badge/-Tanstack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### Backend
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
