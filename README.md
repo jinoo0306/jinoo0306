@@ -41,10 +41,6 @@ Email : 📧 jinoo0306@naver.com / jinoo0306@gmail.com <br/>
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Tools
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-F22E76?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Copilot](https://img.shields.io/badge/-Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
